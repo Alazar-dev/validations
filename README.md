@@ -1,2 +1,4 @@
-# validations
-blue kale validation repo for training
+# rearrange
+
+========
+This repo is used to rearrange names.
